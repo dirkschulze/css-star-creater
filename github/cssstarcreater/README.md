@@ -1,7 +1,9 @@
-== CSS Star Creater ==
+CSS Star Creater
+===
 This is a very simple script to create "stars" [polygons] for `shape-inside`, `shape-outside` and `clip-path` properties. (See [CSS Exclusions and Shapes](http://dev.w3.org/csswg/css3-exclusions/#basic-shapes-from-svg-syntax) as well as [CSS Masking](http://dvcs.w3.org/hg/FXTF/raw-file/tip/masking/index.html#the-clip-path).)
 
-== Howto ==
+Howto
+===
 
 The `calculateStar()` star function takes 4 arguments (no type checking yet).
 
